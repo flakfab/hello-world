@@ -1,2 +1,3 @@
 # hello-world
-let's get started
+i do some python, c/c++ and am interested in julia
+also open for anything matlab/octave
